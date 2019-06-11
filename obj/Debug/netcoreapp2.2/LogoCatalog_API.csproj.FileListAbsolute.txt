@@ -1,0 +1,13 @@
+D:\Projects\LogoCatalog_API\LogoCatalog_API\bin\Debug\netcoreapp2.2\LogoCatalog_API.deps.json
+D:\Projects\LogoCatalog_API\LogoCatalog_API\bin\Debug\netcoreapp2.2\LogoCatalog_API.runtimeconfig.json
+D:\Projects\LogoCatalog_API\LogoCatalog_API\bin\Debug\netcoreapp2.2\LogoCatalog_API.runtimeconfig.dev.json
+D:\Projects\LogoCatalog_API\LogoCatalog_API\bin\Debug\netcoreapp2.2\LogoCatalog_API.dll
+D:\Projects\LogoCatalog_API\LogoCatalog_API\bin\Debug\netcoreapp2.2\LogoCatalog_API.pdb
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.csproj.CoreCompileInputs.cache
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.RazorAssemblyInfo.cache
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.RazorAssemblyInfo.cs
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.AssemblyInfoInputs.cache
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.AssemblyInfo.cs
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.RazorTargetAssemblyInfo.cache
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.dll
+D:\Projects\LogoCatalog_API\LogoCatalog_API\obj\Debug\netcoreapp2.2\LogoCatalog_API.pdb
